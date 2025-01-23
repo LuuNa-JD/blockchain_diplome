@@ -76,8 +76,8 @@ Les signatures numériques Dilithium assurent l’authenticité des blocs et emp
 ### Étapes d'installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/luuna-jd/<nom-du-repo>.git
-   cd <nom-du-repo>
+   git clone https://github.com/LuuNa-JD/blockchain_diplome.git
+   cd blockchain_diplome
    ```
 2. Installez les dépendances avec Poetry :
    ```bash
